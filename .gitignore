@@ -11,6 +11,7 @@
 # production artifacts
 /coverage/
 /dist/
+/generated/prisma/
 
 # local environment files (commit only .env.example)
 .env
